@@ -7,6 +7,8 @@
     <UserSecretsId>8affd2a7-d8c3-4a71-a6c8-7a1de3c3f896</UserSecretsId>
     <RepositoryUrl>https://github.com/MorfiWifi/MadSoul.Common</RepositoryUrl>
     <PackageReadmeFile>README.md</PackageReadmeFile>
+    <Authors>Wifimorfi</Authors>
+    <PackageLicenseUrl>https://github.com/MorfiWifi/MadSoul.Common/blob/main/LICENSE.txt</PackageLicenseUrl>
 
     <Version>1.0.1</Version>
   </PropertyGroup>
