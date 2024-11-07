@@ -1,0 +1,19 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.1</TargetFramework>
+    <Nullable>enable</Nullable>
+    <LangVersion>default</LangVersion>
+    <UserSecretsId>8affd2a7-d8c3-4a71-a6c8-7a1de3c3f896</UserSecretsId>
+    <RepositoryUrl>https://github.com/MorfiWifi/MadSoul.Common</RepositoryUrl>
+    <PackageReadmeFile>README.md</PackageReadmeFile>
+
+    <Version>1.0.0</Version>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="LICENSE.txt" Pack="true" PackagePath=""/>
+    <None Include="README.md" Pack="true" PackagePath=""/>
+  </ItemGroup>
+
+</Project>
